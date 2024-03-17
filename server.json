@@ -1,127 +1,208 @@
 {
-    "tags": [
-        {
-            "title": "Funny Cats Compilation",
-            "amountOfVideos": 25
-        },
-        {
-            "title": "Cooking Recipes",
-            "amountOfVideos": 50
-        },
-        {
-            "title": "Gaming Highlights",
-            "amountOfVideos": 30
-        },
-        {
-            "title": "Travel Vlogs",
-            "amountOfVideos": 40
-        },
-        {
-            "title": "Science Experiments",
-            "amountOfVideos": 20
-        },
-        {
-            "title": "DIY Projects",
-            "amountOfVideos": 35
-        },
-        {
-            "title": "Music Covers",
-            "amountOfVideos": 45
-        },
-        {
-            "title": "Fitness Workouts",
-            "amountOfVideos": 55
-        },
-        {
-            "title": "Educational Tutorials",
-            "amountOfVideos": 60
-        },
-        {
-            "title": "Tech Reviews",
-            "amountOfVideos": 25
-        },
-        {
-            "title": "Artistic Creations",
-            "amountOfVideos": 70
-        },
-        {
-            "title": "Motivational Speeches",
-            "amountOfVideos": 15
-        },
-        {
-            "title": "Fashion Trends",
-            "amountOfVideos": 40
-        },
-        {
-            "title": "Product Unboxings",
-            "amountOfVideos": 30
-        },
-        {
-            "title": "Historical Documentaries",
-            "amountOfVideos": 25
-        },
-        {
-            "title": "Celebrity Interviews",
-            "amountOfVideos": 35
-        },
-        {
-            "title": "Nature Documentaries",
-            "amountOfVideos": 50
-        },
-        {
-            "title": "Artisan Crafts",
-            "amountOfVideos": 65
-        },
-        {
-            "title": "Podcast Episodes",
-            "amountOfVideos": 75
-        },{
-            "title": "Educational Tutorials",
-            "amountOfVideos": 60
-        },
-        {
-            "title": "Tech Reviews",
-            "amountOfVideos": 25
-        },
-        {
-            "title": "Artistic Creations",
-            "amountOfVideos": 70
-        },
-        {
-            "title": "Motivational Speeches",
-            "amountOfVideos": 15
-        },
-        {
-            "title": "Fashion Trends",
-            "amountOfVideos": 40
-        },
-        {
-            "title": "Product Unboxings",
-            "amountOfVideos": 30
-        },
-        {
-            "title": "Historical Documentaries",
-            "amountOfVideos": 25
-        },
-        {
-            "title": "Celebrity Interviews",
-            "amountOfVideos": 35
-        },
-        {
-            "title": "Nature Documentaries",
-            "amountOfVideos": 50
-        },
-        {
-            "title": "Artisan Crafts",
-            "amountOfVideos": 65
-        },
-        {
-            "title": "Podcast Episodes",
-            "amountOfVideos": 75
-        },
-        {
-            "title": "Stand-up Comedy",
-            "amountOfVideos": 20
-        }
-    ]
+  "tags": [
+    {
+      "title": "Funny Cats Compilation",
+      "slug": "old",
+      "amountOfVideos": 25,
+      "id": "7267"
+    },
+    {
+      "title": "Cooking Recipes",
+      "slug": "old",
+      "amountOfVideos": 50,
+      "id": "10a4"
+    },
+    {
+      "title": "Gaming Highlights",
+      "slug": "old",
+      "amountOfVideos": 30,
+      "id": "4370"
+    },
+    {
+      "title": "Travel Vlogs",
+      "slug": "old",
+      "amountOfVideos": 40,
+      "id": "2414"
+    },
+    {
+      "title": "Science Experiments",
+      "slug": "old",
+      "amountOfVideos": 20,
+      "id": "21f9"
+    },
+    {
+      "title": "DIY Projects",
+      "slug": "old",
+      "amountOfVideos": 35,
+      "id": "ba57"
+    },
+    {
+      "title": "Music Covers",
+      "slug": "old",
+      "amountOfVideos": 45,
+      "id": "1a1c"
+    },
+    {
+      "title": "Fitness Workouts",
+      "slug": "old",
+      "amountOfVideos": 55,
+      "id": "a0a8"
+    },
+    {
+      "title": "Educational Tutorials",
+      "slug": "old",
+      "amountOfVideos": 60,
+      "id": "c52d"
+    },
+    {
+      "title": "Tech Reviews",
+      "slug": "old",
+      "amountOfVideos": 25,
+      "id": "b0c1"
+    },
+    {
+      "title": "Artistic Creations",
+      "slug": "old",
+      "amountOfVideos": 70,
+      "id": "773e"
+    },
+    {
+      "title": "Motivational Speeches",
+      "slug": "old",
+      "amountOfVideos": 15,
+      "id": "c0ec"
+    },
+    {
+      "title": "Fashion Trends",
+      "slug": "old",
+      "amountOfVideos": 40,
+      "id": "919a"
+    },
+    {
+      "title": "Product Unboxings",
+      "slug": "old",
+      "amountOfVideos": 30,
+      "id": "bd6b"
+    },
+    {
+      "title": "Historical Documentaries",
+      "slug": "old",
+      "amountOfVideos": 25,
+      "id": "1f66"
+    },
+    {
+      "title": "Celebrity Interviews",
+      "slug": "old",
+      "amountOfVideos": 35,
+      "id": "4f44"
+    },
+    {
+      "title": "Nature Documentaries",
+      "slug": "old",
+      "amountOfVideos": 50,
+      "id": "26da"
+    },
+    {
+      "title": "Artisan Crafts",
+      "slug": "old",
+      "amountOfVideos": 65,
+      "id": "195b"
+    },
+    {
+      "title": "Podcast Episodes",
+      "slug": "old",
+      "amountOfVideos": 75,
+      "id": "0486"
+    },
+    {
+      "title": "Educational Tutorials",
+      "slug": "old",
+      "amountOfVideos": 60,
+      "id": "f8c9"
+    },
+    {
+      "title": "Tech Reviews",
+      "slug": "old",
+      "amountOfVideos": 25,
+      "id": "de05"
+    },
+    {
+      "title": "Artistic Creations",
+      "slug": "old",
+      "amountOfVideos": 70,
+      "id": "80a7"
+    },
+    {
+      "title": "Motivational Speeches",
+      "slug": "old",
+      "amountOfVideos": 15,
+      "id": "8a04"
+    },
+    {
+      "title": "Fashion Trends",
+      "slug": "old",
+      "amountOfVideos": 40,
+      "id": "9a73"
+    },
+    {
+      "title": "Product Unboxings",
+      "slug": "old",
+      "amountOfVideos": 30,
+      "id": "5e4c"
+    },
+    {
+      "title": "Historical Documentaries",
+      "slug": "old",
+      "amountOfVideos": 25,
+      "id": "441d"
+    },
+    {
+      "title": "Celebrity Interviews",
+      "slug": "old",
+      "amountOfVideos": 35,
+      "id": "5e54"
+    },
+    {
+      "title": "Nature Documentaries",
+      "slug": "old",
+      "amountOfVideos": 50,
+      "id": "637a"
+    },
+    {
+      "title": "Artisan Crafts",
+      "slug": "old",
+      "amountOfVideos": 65,
+      "id": "87f9"
+    },
+    {
+      "title": "Podcast Episodes",
+      "slug": "old",
+      "amountOfVideos": 75,
+      "id": "53cb"
+    },
+    {
+      "title": "Stand-up Comedy",
+      "slug": "old",
+      "amountOfVideos": 20,
+      "id": "bdd3"
+    },
+    {
+      "id": "db56",
+      "title": "Tag do Renan",
+      "slug": "tag-do-renan",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "ea13",
+      "title": "Teste com Mutation",
+      "slug": "teste-com-mutation",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "8567",
+      "title": "Hello World",
+      "slug": "hello-world",
+      "amountOfVideos": 0
+    }
+  ]
 }
